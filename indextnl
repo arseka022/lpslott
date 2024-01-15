@@ -3,7 +3,7 @@
 function feedback404()
 {
     header("HTTP/1.0 404 Not Found");
-    echo "SUDAH SAATNYA KU PERGI KE laundryI";
+    echo "SUDAH SAATNYA KU PERGI KE laundry";
 }
 
 if (isset($_GET['laundry'])) {
